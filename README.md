@@ -8,7 +8,7 @@ chmod +x build.sh
 '''
 4. change directory to the root of catkin workspace, run the following in terminal to compile the demo
 '''
-catkin_make orbslam2_ros
+catkin_make ros_mono
 '''
 
 # How to Run
